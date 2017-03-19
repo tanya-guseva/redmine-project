@@ -1,0 +1,75 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Changes to be committed:
+#	new file:   COMMIT_EDITMSG
+#	new file:   HEAD
+#	new file:   config
+#	new file:   description
+#	new file:   hooks/applypatch-msg.sample
+#	new file:   hooks/commit-msg.sample
+#	new file:   hooks/post-update.sample
+#	new file:   hooks/pre-applypatch.sample
+#	new file:   hooks/pre-commit.sample
+#	new file:   hooks/pre-push.sample
+#	new file:   hooks/pre-rebase.sample
+#	new file:   hooks/pre-receive.sample
+#	new file:   hooks/prepare-commit-msg.sample
+#	new file:   hooks/update.sample
+#	new file:   index
+#	new file:   index.lock
+#	new file:   info/exclude
+#	new file:   logs/HEAD
+#	new file:   logs/refs/heads/master
+#	new file:   objects/44/34ce556aa7c4f535c0549d48951f86db6bdead
+#	new file:   objects/4b/825dc642cb6eb9a060e54bf8d69288fbee4904
+#	new file:   objects/5e/83d3b1849f5fc18eb6a4ae5f977c73e2066047
+#	new file:   objects/88/43858fbc4279d76eb808ea1e0eb95e82708e8a
+#	new file:   objects/e3/9870bb6ba9ce34cd336bd9c5dc7ac733bdbe24
+#	new file:   packed-refs
+#	new file:   refs/heads/master
+#
+# Changes not staged for commit:
+#	modified:   index
+#
+# Untracked files:
+#	new_file.txt
+#	objects/01/
+#	objects/1b/
+#	objects/1d/
+#	objects/25/
+#	objects/32/
+#	objects/38/
+#	objects/3b/
+#	objects/41/
+#	objects/49/
+#	objects/52/
+#	objects/61/
+#	objects/65/
+#	objects/68/
+#	objects/76/
+#	objects/7d/
+#	objects/7f/
+#	objects/80/
+#	objects/87/
+#	objects/93/
+#	objects/95/
+#	objects/97/
+#	objects/9e/
+#	objects/a1/
+#	objects/a5/
+#	objects/ad/
+#	objects/ae/
+#	objects/b5/
+#	objects/b6/
+#	objects/c8/
+#	objects/cb/
+#	objects/cc/
+#	objects/dc/
+#	objects/e5/
+#	objects/e6/
+#	objects/ec/
+#	objects/f0/
+#	objects/fa/
+#

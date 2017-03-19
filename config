@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	symlinks = false
+	ignorecase = true
+	worktree = X:\\xampp\\htdocs\\dev-ruby\\redmine\\repos
+[remote "origin"]
+	url = https://github.com/tanya-guseva/redmine-project
